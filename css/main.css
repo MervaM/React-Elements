@@ -1,0 +1,33 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+  background: linear-gradient(184deg, #03dd91, #012a1c);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  padding: 20px 30px;
+}
+.header__title {
+  position: relative;
+  color: #042119;
+  text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #074625;
+  margin-bottom: 0;
+}
+
+.main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.react__span, .react__paragraph {
+  border: 1px dotted #012a1c;
+  padding: 10px 50px;
+}
+
+#react__block2 {
+  margin-top: 20px;
+}
